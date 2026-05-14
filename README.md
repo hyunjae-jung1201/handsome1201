@@ -29,6 +29,7 @@
 |---|---|---|
 | [`ChArucoTracker`](https://github.com/handsome1201/ChArucoTracker) | ChArUco 보드 기반 실시간 항타 변위 측정 Android 앱 (120fps, 오차 ~0.09mm) | Kotlin, OpenCV, Camera2 |
 | [`ArucoTracker`](https://github.com/handsome1201/ArucoTracker) | ArUco 마커 기반 실시간 항타 변위 측정 Android 앱 (120fps, 오차 ~0.07mm) | Kotlin, OpenCV, Camera2 |
+| [`GalaxyWatchHRTracker`](https://github.com/hyunjae-jung1201/h22-baby-monitor-poc/tree/main/galaxy-watch-hr-tracker) | Galaxy Watch 실시간 심박수(BPM) 측정 Wear OS 앱 (1Hz, Logcat + CSV 저장) | Kotlin, Wear OS, SensorManager |
 
 #### 🤖 AI & Computer Vision
 | Project | Description | Tech |
@@ -42,6 +43,7 @@
 | Project | Description |
 |---|---|
 | [`DDS-`](https://github.com/handsome1201/DDS-) | 대용량 데이터 전송을 위한 DDS QoS 설정 연구 / 영상 전송을 위한 인코딩 및 통신 방식 비교 연구 |
+| [`h22-baby-monitor-poc`](https://github.com/hyunjae-jung1201/h22-baby-monitor-poc) | H22 대시캠 60GHz FMCW 레이더로 비접촉 호흡수 측정 PoC (16분 캡처에서 10.9 BPM 측정 성공) |
 
 #### 🌐 Web Development
 | Project | Description | Tech |
