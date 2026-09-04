@@ -35,6 +35,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [`spidercore_project`](https://github.com/handsome1201/spidercore_project) | Ys-NexusCam: NVIDIA DeepStream 기반 다중 카메라 AI 비전 시스템 (YOLOv8, Optical Flow, Geofence) | C++, DeepStream, CUDA, TensorRT |
+| [`dashboard_for_safety`](https://github.com/hyunjae-jung1201/dashboard_for_safety) | 산업 현장 안전 모니터링 풀스택 대시보드 — VLM 기반 이벤트 분석, Safety Score, Daily/Weekly/Monthly 리포트, 실시간 알림, Alert/EOD Zone 관리 | Next.js, Express, TypeScript, MongoDB, PostgreSQL |
 | [`Human_Detection`](https://github.com/handsome1201/Human_Detection) | YOLO 기반 사람 감지 및 얼굴 인식 | Python, YOLOv8 |
 | [`FaceRecognition`](https://github.com/handsome1201/FaceRecognition) | 신경망 기반 남녀 얼굴 분류기 | Jupyter Notebook |
 | [`Girl_or_Boy`](https://github.com/handsome1201/Girl_or_Boy) | 딥러닝 기반 성별 분류 | Jupyter Notebook |
