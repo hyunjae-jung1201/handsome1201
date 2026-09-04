@@ -35,7 +35,8 @@
 | Project | Description | Tech |
 |---|---|---|
 | [`spidercore_project`](https://github.com/handsome1201/spidercore_project) | Ys-NexusCam: NVIDIA DeepStream 기반 다중 카메라 AI 비전 시스템 (YOLOv8, Optical Flow, Geofence) | C++, DeepStream, CUDA, TensorRT |
-| [`dashboard_for_safety`](https://github.com/hyunjae-jung1201/dashboard_for_safety) | 산업 현장 안전 모니터링 풀스택 대시보드 — VLM 기반 이벤트 분석, Safety Score, Daily/Weekly/Monthly 리포트, 실시간 알림, Alert/EOD Zone 관리 | Next.js, Express, TypeScript, MongoDB, PostgreSQL |
+| [`dashboard_for_safety`](https://github.com/hyunjae-jung1201/dashboard_for_safety) | 산업 현장 안전 모니터링 풀스택 대시보드 — VLM 기반 이벤트 분석, Safety Score, Daily/Weekly/Monthly 리포트, Alert/EOD Zone 관리, WireGuard VPN 자동 프로비저닝, 실시간 알림(SNS/SQS/SSE) | Next.js, Express, TypeScript, MongoDB, PostgreSQL |
+| `팅크웨어 블랙박스 R&D` | 차량용 블랙박스 임베디드 기기 R&D — IMU 기반 운전자 활동 분류, 얼굴/인체 검출 최적화, 활동인식 모델 재구축 (LODO 검증 92%) | C/C++, Python, scikit-learn, Embedded Linux |
 | [`Human_Detection`](https://github.com/handsome1201/Human_Detection) | YOLO 기반 사람 감지 및 얼굴 인식 | Python, YOLOv8 |
 | [`FaceRecognition`](https://github.com/handsome1201/FaceRecognition) | 신경망 기반 남녀 얼굴 분류기 | Jupyter Notebook |
 | [`Girl_or_Boy`](https://github.com/handsome1201/Girl_or_Boy) | 딥러닝 기반 성별 분류 | Jupyter Notebook |
@@ -44,6 +45,7 @@
 | Project | Description |
 |---|---|
 | [`DDS-`](https://github.com/handsome1201/DDS-) | 대용량 데이터 전송을 위한 DDS QoS 설정 연구 / 영상 전송을 위한 인코딩 및 통신 방식 비교 연구 |
+| `폐암 WSI 재발예측 연구` | 폐암 환자 676명 WSI(Whole Slide Image) 코호트 기반 재발 예측 딥러닝 모델 — 가방(Bag) 증강 기법 적용 |
 | [`h22-baby-monitor-poc`](https://github.com/hyunjae-jung1201/h22-baby-monitor-poc) | H22 대시캠 60GHz FMCW 레이더로 비접촉 호흡수 측정 PoC (16분 캡처에서 10.9 BPM 측정 성공) |
 
 #### 🌐 Web Development
