@@ -46,6 +46,7 @@
 |---|---|
 | [`DDS-`](https://github.com/handsome1201/DDS-) | 대용량 데이터 전송을 위한 DDS QoS 설정 연구 / 영상 전송을 위한 인코딩 및 통신 방식 비교 연구 |
 | `폐암 WSI 재발예측 연구` | 폐암 환자 676명 WSI(Whole Slide Image) 코호트 기반 재발 예측 딥러닝 모델 — 가방(Bag) 증강 기법 적용 |
+| [`papers`](https://github.com/hyunjae-jung1201/papers) | 발표/게재 학술논문 모음 — DDS QoS 설정 연구, 영상 인코딩/통신 구조 성능 비교(석사논문), 차량 에지 컴퓨팅 (총 3편) |
 | [`h22-baby-monitor-poc`](https://github.com/hyunjae-jung1201/h22-baby-monitor-poc) | H22 대시캠 60GHz FMCW 레이더로 비접촉 호흡수 측정 PoC (16분 캡처에서 10.9 BPM 측정 성공) |
 
 #### 🌐 Web Development
